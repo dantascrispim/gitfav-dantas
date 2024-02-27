@@ -1,4 +1,4 @@
-GitFav aplicativo desenvolvido para adiconar seus melhores contatos pelo Github
+GitFav aplicativo desenvolvido para adicionar seus  contatos favoritos do Github...
 
 TECNOLOGIAS USADAS:  HTML5, CSS3 E JAVASCRIPT, GIT E GITHUB.
 
